@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "debug": "^4.4.2"
+    "debug": "4.4.1",
+    "02-echo": "0.0.6"
   }
 }
